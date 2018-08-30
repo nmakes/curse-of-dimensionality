@@ -44,9 +44,9 @@ def runSimComparison(n, dlist):
     data.plt.plot(dlist, simsStd)
 
     # Display running time results
-    data.plt.figure('Running time')
+    data.plt.figure('Running time for cosine similarity')
     data.plt.xlabel('number of dimensions')
-    data.plt.ylabel('running time (seconds)')
+    data.plt.ylabel('running time for cosine similarity (seconds)')
     data.plt.plot(times)
 
     data.plt.show()
