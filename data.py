@@ -14,3 +14,6 @@ def getRandomData(n, d):
 
 def getSim(x1, x2):
     return np.dot(x1, x2)
+
+def getLpNorm(v, p):
+    return np.linalg.norm(v, ord=p)
