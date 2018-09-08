@@ -1,5 +1,6 @@
 # Code Repository for - "The curse of Dimensionality: Inside Out"
 Written by: Naveen Venkat
+
 naveenvenkat.com | nav.naveenvenkat@gmail.com
 
 # Cite
