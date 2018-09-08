@@ -1,4 +1,7 @@
 # Code Repository for - "The curse of Dimensionality: Inside Out"
+
+Link to the paper: https://www.researchgate.net/publication/327498046_The_Curse_of_Dimensionality_Inside_Out
+
 Written by: Naveen Venkat
 
 naveenvenkat.com | nav.naveenvenkat@gmail.com
